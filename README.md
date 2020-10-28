@@ -1,5 +1,5 @@
 # DecorationWeb
-
+This project authenticate the user to display recipe book and add ingredients. It also valid input from users such as email and password. The project fetches and saves data on firebase. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
