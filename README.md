@@ -1,27 +1,10 @@
-# DecorationWeb
+# Recipe book
 This project authenticate the user to display recipe book and add ingredients. It also valid input from users such as email and password. The project fetches and saves data on firebase. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
-## Development server
+## Image
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img width="1392" alt="recipe-book-auth" src="https://user-images.githubusercontent.com/43390744/99133760-dcaa9180-25e0-11eb-932f-6f86a8dd5154.png">
 
-## Code scaffolding
+<img width="1392" alt="recipe-book" src="https://user-images.githubusercontent.com/43390744/99133811-17acc500-25e1-11eb-8827-5048e31c2eca.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
